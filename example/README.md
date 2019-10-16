@@ -61,7 +61,7 @@ _Facebook Sign-In_
 1. Create a [developer account with Facebook](https://developers.facebook.com/docs/facebook-login)
 2. [Sign In](https://developers.facebook.com/) with your Facebook credentials.
 3. From the *My Apps* menu, choose *Add New App*.
-![Image](../raw/facebook1.png)
+![Image](./raw/facebook1.png)
 4. Give your Facebook app a name and choose *Create App ID*.
 ![Image](../raw/facebook2.png)
 5. On the left navigation bar, choose *Settings* and then *Basic*.
